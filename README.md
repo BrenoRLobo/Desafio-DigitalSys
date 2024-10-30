@@ -13,13 +13,6 @@ Este projeto é um sistema de recrutamento desenvolvido para a empresa Pegho, es
 - **Painel Administrativo**: Interface no Django Admin para o gerenciamento dos dados dos candidatos.
 - **Frontend Interativo**: Formulário para preenchimento e envio de currículos, permitindo aos candidatos submeterem suas informações.
 
-## Instalação e Configuração do Projeto
-
-### Pré-requisitos
-
-- **Python 3.8+**
-- **Node.js** e **npm**
-
 ## Front-end
 
 - http://localhost:3000
@@ -27,3 +20,10 @@ Este projeto é um sistema de recrutamento desenvolvido para a empresa Pegho, es
 ## Back-end
 
 - http://localhost:8000
+
+## Instalação e Configuração do Projeto
+
+### Pré-requisitos
+
+- **Python 3.8+**
+- **Node.js** e **npm**
