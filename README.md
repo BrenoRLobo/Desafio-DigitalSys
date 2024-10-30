@@ -20,3 +20,10 @@ Este projeto é um sistema de recrutamento desenvolvido para a empresa Pegho, es
 - **Python 3.8+**
 - **Node.js** e **npm**
 
+## Front-end
+
+- http://localhost:3000
+
+## Back-end
+
+- http://localhost:8000
